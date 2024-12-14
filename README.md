@@ -14,8 +14,12 @@
 
 </br>
 
-<h3 align="left">👩‍💻  About Me 👩‍💻</h3>
+<h3 align="center">👩‍💻  About Me 👩‍💻</h3>
 
 </br>
 
 <p align="center">My name is nexus, im the founder of White Flame Studio.</br>Studying cybersecurity, web applications and local networks</br>In my free time, I do stuff using Java and C# as either personal projects or events or for fun.</p>
+
+</br>
+
+<h3 align="center">🛠 Language and tools that I have experience using</h3>
