@@ -18,7 +18,7 @@
 
 </br>
 
-<p align="center">My name is nexus, founded White Flame Studio months ago.</br>Im actually studying cybersecurity, web applications and local networks</br>In my free time, I do stuff using Java and C# as either personal projects or events or for fun.</p>
+<p align="center">My name is nexus, founded White Flame Studio months ago.</br>Im actually studying cybersecurity, web applications and local networks.</br>In my free time, I do stuff using Java and C# as either personal projects or events or for fun.</p>
 
 </br>
 
