@@ -22,7 +22,7 @@
 
 </br>
 
-<h3 align="center">🛠 Languages and tools that I have experience using</h3>
+<h3 align="center">🛠 Languages and tools that I have experience using 🛠</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,aws,cs,css,gitlab,html,idea,rider,java,mysql,unity,wasm" />
