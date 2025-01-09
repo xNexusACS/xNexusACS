@@ -24,7 +24,7 @@
 
 <h3 align="center">🤗  My statistics 🤗</h3>
 <div align="center">
-  ![xNexusACS's Stats](https://git-hub-stats-liard.vercel.app/api?username=xNexusACS&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  https://git-hub-stats-liard.vercel.app/api?username=xNexusACS&theme=dark&show_icons=true&hide_border=true&count_private=true
 </div>
 
 </br>
