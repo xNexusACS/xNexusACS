@@ -24,7 +24,8 @@
 
 <h3 align="center">🤗  My statistics 🤗</h3>
 <div align="center">
-  https://git-hub-stats-liard.vercel.app/api?username=xNexusACS&theme=dark&show_icons=true&hide_border=true&count_private=true
+| ![xNexusACS Stats](https://git-hub-stats-liard.vercel.app/api?username=xNexusACS&theme=dark&show_icons=true&hide_border=true&count_private=true) |
+|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 </div>
 
 </br>
