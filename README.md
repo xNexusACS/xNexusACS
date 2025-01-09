@@ -22,6 +22,13 @@
 
 </br>
 
+<h3 align="center">🤗  My statistics 🤗</h3>
+<div align="center">
+  ![xNexusACS's Stats](https://git-hub-stats-liard.vercel.app/api?username=xNexusACS&theme=dark&show_icons=true&hide_border=true&count_private=true)
+</div>
+
+</br>
+
 <h3 align="center">🛠 Languages and tools that I have experience using 🛠</h3>
 <div align="center">
   <a href="https://skillicons.dev">
